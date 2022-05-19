@@ -17,6 +17,7 @@ categories:
 tags:
   - categories
   - edge case
+permalink: /docs/
 ---
 
 This post has many categories.

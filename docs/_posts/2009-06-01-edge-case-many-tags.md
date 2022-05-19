@@ -44,6 +44,7 @@ tags:
   - Unseen
   - video
   - YouTube
+permalink: /docs/
 ---
 
 This post has many tags.

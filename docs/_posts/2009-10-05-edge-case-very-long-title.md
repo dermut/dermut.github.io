@@ -9,6 +9,7 @@ tags:
   - html
   - layout
   - title
+permalink: /docs/
 ---
 
 Check for long titles and how they might break a template.

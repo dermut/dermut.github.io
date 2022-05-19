@@ -1,5 +1,6 @@
 ---
 title: "Edge Case: Post with multiline excerpt"
+permalink: /docs/
 ---
 
 Et ex ullamco duis don't

@@ -9,6 +9,7 @@ tags:
   - html
   - layout
   - title
+permalink: /docs/
 ---
 
 ## Title should not overflow the content area

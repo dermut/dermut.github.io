@@ -6,4 +6,5 @@ tags:
   - content
   - edge case
   - layout
+permalink: /docs/
 ---
