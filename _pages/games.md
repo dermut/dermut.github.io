@@ -46,4 +46,10 @@ permalink: /games/
     <p>1~100 사이의 숫자를 10번 안에 맞춰보세요!</p>
     <a href="https://dermut.github.io/guessing_number/" class="btn btn--primary btn--large">플레이하기</a>
   </div>
+  <div class="game-card">
+    <div class="game-icon">🪜</div>
+    <h3>사다리 타기</h3>
+    <p>사다리를 타고 내려가 결과를 확인해보세요!</p>
+    <a href="https://dermut.github.io/ladder_game/" class="btn btn--primary btn--large">플레이하기</a>
+  </div>
 </div>
