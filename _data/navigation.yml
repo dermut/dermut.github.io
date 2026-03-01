@@ -2,13 +2,7 @@
 main:
   - title: "POST"
     url: /post/
-  #- title: posts
-  #  url: /docs/_posts/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "GAMES"
+    url: /games/
+  - title: "ABOUT"
+    url: /about/
