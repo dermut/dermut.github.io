@@ -43,13 +43,19 @@ permalink: /games/
   <div class="game-card">
     <div class="game-icon">🎮</div>
     <h3>숫자 맞추기</h3>
-    <p>1~100 사이의 숫자를 10번 안에 맞춰보세요!</p>
+    <p>1~100 사이 숫자, 힌트 보면서 10번 안에 맞혀보세요.</p>
     <a href="https://dermut.github.io/guessing_number/" class="btn btn--primary btn--large">플레이하기</a>
   </div>
   <div class="game-card">
     <div class="game-icon">🪜</div>
     <h3>사다리 타기</h3>
-    <p>사다리를 타고 내려가 결과를 확인해보세요!</p>
+    <p>내 칸은 어디로 이어질까요? 두근두근 사다리 한 판!</p>
     <a href="https://dermut.github.io/ladder_game/" class="btn btn--primary btn--large">플레이하기</a>
+  </div>
+  <div class="game-card">
+    <div class="game-icon">⚡</div>
+    <h3>반응속도 테스트</h3>
+    <p>초록불 켜지면 바로 클릭! 내 반응속도는 몇 ms일까요?</p>
+    <a href="https://dermut.github.io/reaction_time_test/" class="btn btn--primary btn--large">플레이하기</a>
   </div>
 </div>
